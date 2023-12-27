@@ -7,5 +7,6 @@ my_courses = {
     "DL" : ["G", "PM5"],
     "CMA" : ["E4", "PA4"],
     "QC" : ["E"],
-    "FoL" : ["G"],
+    "IC" : ["F"],
 }
+

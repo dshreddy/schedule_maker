@@ -20,7 +20,7 @@ def generate_class_schedule(slots, classes):
 
 
 # Generate and print the class schedule
-class_schedule = generate_class_schedule(slots, cse_classes)
+class_schedule = generate_class_schedule(slots, my_courses)
 
 for day, classes in class_schedule.items():
     print(f"--- {day} ---")
